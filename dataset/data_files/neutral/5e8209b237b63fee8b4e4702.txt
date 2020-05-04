@@ -1,0 +1,12 @@
+The seasonal flu infects tens of millions of people every year but kills only 0.1 per cent, but Sars-Cov-2, the virus behind Covid-19 has now killed at least 22,000 people in just three and a half months.
+Almost 4 per cent of people died of total diagnosed population. But the size of infection and testing policy may not reveal the real fatality threat.
+India Today's Data Intelligence Unit (DIU) analysed the data of nine countries, including India, to trace how testing speed shapes the fatality rate. Most of the countries have reported their testing data up to March 20.
+The data show that countries with higher test frequency have a lower fatality rate, and relatively less testing countries have a higher fatality rate.
+For instance, India performed 11 tests per million population and came out with 2.09 per cent fatality rate.
+South Korea conducted more than 6,000 tests per million population and maintained a fatality rate of 1.16 per cent as on March 20.
+However, Italy conducted extensive testing and reported a higher case fatality rate. With about 3,500 test, Italy has reported 8.5 per cent crude case fatality rate, higher than that observed in other countries.
+Experts have explained the demographic profile of Italy as one of the primary reasons.
+"The demographic characteristics of the Italian population differ from other countries. In 2019, approximately 23 per cent of the Italian population was aged 65 years or older. Covid-19 is more lethal in older patients, so the older age distribution in Italy may explain, in part, Italy's higher case-fatality rate compared with that of other countries," Graziano Onder and his team of medical specialists of Department of Cardiovascular, Endocrine-Metabolic Diseases and Aging, Istituto Superiore di Sanita, Rome, explained in a recent research note.
+Case Fatality Ratio (CFR) also known as the mortality rate, which is calculated as the number of deaths divided by the number of total cases. Experts believe that fatality rates are not accurate at this stage of an outbreak because a limited or excess testing policy may not cover mild cases.
+However, crude and initial death rate suggests Covid-19 is not as deadly as Sars and Mers.
+Coronavirus originated at the end of the last year in the city of Wuhan in China. As of March 26, Covid-19 has reached to 199 countries with more than five lakh cases.

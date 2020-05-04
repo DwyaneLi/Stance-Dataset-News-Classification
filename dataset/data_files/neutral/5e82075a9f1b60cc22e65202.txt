@@ -1,0 +1,28 @@
+SHANGHAI (Reuters) - China’s local governments are ramping up surveillance efforts with new data collection campaigns to better trace residents’ moves in public areas, seeking to curb the coronavirus outbreak but heightening privacy concerns.
+At least 15 provinces and cities with a combined population of over 358 million have announced such “big data” measures this month, adding to a host of monitoring tools already being used, such as facial recognition and phone data tracking.
+Visitors to office buildings, shopping malls, residential compounds and metro systems are now being asked to scan QR codes using their mobile phones and fill in forms asking for information such as their travel history and body temperature, according to residents and local media reports.
+Some regions are also instructing residents to use newly launched features by Alibaba Group Holding Ltd’s Alipay and Tencent Holdings Ltd’s WeChat apps. Users fill in a questionnaire to obtain a obtain colour-based QR code which then acts as guidance at checkpoints as to whether the person should be quarantined or let through.
+The outbreak, traced to the Hubei provincial capital of Wuhan, has killed 2,715 so far and stricken about 78,000 in mainland China.
+Authorities say the tools allows them to more accurately and quickly find infected people especially as millions of people  resume work after an extended holiday.
+But the additional measures are fuelling debate over privacy and the extent and uses of the data repository China is building on its citizens. Western diplomats and activists have criticised China’s use of mass surveillance in the past.
+“Of course governments have the responsibility to protect public health and safety but these measures have to balance other rights as well, including privacy rights,” said Maya Wang, China senior researcher at Human Rights Watch.
+“Some of these criteria are very broad, and when you use this criteria and feed it into the app, how accurate are they?”
+Some government officials acknowledge privacy concerns and have offered reassurances.
+Liu Yuewen, who heads Yunnan province’s department of public security’s big data expert group, said individuals’ privacy would be protected, and the data would be destroyed when efforts to control the epidemic end.
+“No one will be able to see any data without the permission of the epidemic prevention and control headquarters,” he said, according to a report by the state-backed Beijing News.
+Some accounts have shed light on how the information is being used by authorities.
+One video shared online showed residential committee officials telling residents in one apartment they needed to head to a Beijing hotel to be quarantined for 14 days.
+“Big data has shown you to be a close contact of an infected person,” said the officials in the video, which Reuters was unable to verify. An employee at the hotel named in the video told Reuters it was not currently open to the public.
+Other people who say they have been quarantined using big data have questioned its accuracy.
+A Hangzhou resident who only wanted to be identified by his surname Hu told Reuters police came to his house and said he was detected as being in contact with someone infected by the coronavirus.
+But Hu said he had not met face-to-face with the infected person, who was a friend, and they last spoke in November through a messaging app. Hu is now in quarantine at his home.
+“My residential committee and the police station understand the situation but can not help me,” he said.
+It was unclear whether all the data collected goes to a central depository or was analysed on a national level, as local authorities often used their own systems made by different companies.
+The Binhai New Area in the coastal city of Tianjin, for instance, uses a platform made by Tianjin Teda Smart City Technology Co. Some of those used in the southern province of Guangxi are made by China-ASEAN Information Harbor, which describes itself on its website as a state-backed technology platform created to aid China’s “Belt and Road” initiative.
+Alipay created its coloured QR code feature with the Hangzhou government, while the health tracking feature in Tencent’s WeChat was launched in collaboration with a division of China’s National Development and Reform Council (NDRC).
+Alipay deferred questions to various government departments  who provide and operate the services, saying it does not have access to the related data.
+Tencent said none of its efforts to fight the virus involved the real-time tracking of people or virus movements.
+Third-party developers, such as those who offer health code services via WeChat Mini Programs, are required to adhere to the platform’s data security requirements and anonymised user data was only accessible by the mini program’s developer, Tencent said.
+For now, people say they are trying to get used to the new normal. He Wanlong, who lives in the Guangxi provincial capital of Nanning, estimates he is asked to submit his data on average six times a day now.
+He told Reuters it was an unwarranted hassle given his city of about 7 million people had just 55 coronavirus cases.
+“I have better odds in winning a lottery than running into a confirmed case.”

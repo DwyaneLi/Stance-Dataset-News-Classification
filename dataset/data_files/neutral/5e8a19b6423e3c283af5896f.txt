@@ -1,0 +1,28 @@
+A five-story hotel collapsed this Saturday in Quanzhou, China. According to Chinese media, at least 70 people are trapped in the rubble. So far they have been rescued 23, says the Daily China newspaper.
+The hotel collapsed around the 1900s in Lisbon this Saturday.
+If (typeof showPubOn) =="undefined" {
+$(function)
+try {
+var div = document.getElementById('div-gpt-ad-mrec-961163');
+setTimeout(function)
+new Waypoint
+element: div,
+handler: function (direction)
+COF.pubApi.renderInContent($(this.element));
+This.destroy();
+},
+offset:'120%'
+};
+}, 50;
+} catch (e)
+console.log(e.message);
+}
+};
+}
+A hotel building collapsed in Quanzhou, SE China's Fujian around 7 pm Saturday, trapping an unknown number of people under it. So far 16 people have been rescued. Rescue work remains underway. pic.twitter.com/rK7tEagQvV (People's Daily, China (@PDChina) March 7, 2020
+A hotel building collapsed in Quanzhou, SE China's Fujian around 7 pm Saturday, trapping an unknown number of people under it. So far 16 people have been rescued. Rescue work remains underway. pic.twitter.com/rK7tEagvV
+From all indications, space was being used as a quarantine site for the coronavirus.
+In total, since the outbreak began until midnight on Friday (16h00 on Wednesday in Lisbon) cases were confirmed 80.651 in mainland China. Of these, 22.177 remain infected, of which 5.489 are in serious condition. This shows that more than half of the infected responded positively to treatment and were discharged. Chinese authorities even say 55.404 have been cured so far.
+The Covid-19 outbreak, detected in December in China, which can cause respiratory infections such as pneumonia, caused more than three.600 deaths and infected over a hundred thousand people in 92 countries and territories.
+In Portugal, the Directorate-General for Health (DGS) has confirmed 13 cases of infection to date, but RTP assures that there are two more cases at St John's HOspital in Oporto.
+The World Health Organisation (WHO) declared the Covid-19 outbreak an international public health emergency and increased the risk to "very high".

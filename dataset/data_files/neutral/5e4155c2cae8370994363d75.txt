@@ -1,0 +1,44 @@
+The Brazilian government is investigating a suspected case of coronavirus in Belo Horizonte in the Brazilian state of Minas Gerais.
+If (typeof showPubOn) =="undefined" {
+$(function)
+try {
+var div = document.getElementById('div-gpt-ad-mrec-135367');
+setTimeout(function)
+new Waypoint
+element: div,
+handler: function (direction)
+COF.pubApi.renderInContent($(this.element));
+This.destroy();
+},
+offset:'120%'
+};
+}, 50;
+} catch (e)
+console.log(e.message);
+}
+};
+}
+According to Globo, she is a 35-year-old Brazilian woman who travelled from Shanghai, China, to Brazil. The Secretary of State for Health of Minas Gerais is now investigating the case.
+The woman has already been subjected to tests, which will confirm or rule out that possibility. The woman has respiratory symptoms consistent with that acute viral respiratory disease.
+The Brazilian government is investigating a suspected case of coronavirus in Belo Horizonte in the Brazilian state of Minas Gerais.
+If (typeof showPubOn) =="undefined" {
+$(function)
+try {
+var div = document.getElementById('div-gpt-ad-mrec-135367');
+setTimeout(function)
+new Waypoint
+element: div,
+handler: function (direction)
+COF.pubApi.renderInContent($(this.element));
+This.destroy();
+},
+offset:'120%'
+};
+}, 50;
+} catch (e)
+console.log(e.message);
+}
+};
+}
+According to Globo, she is a 35-year-old Brazilian woman who travelled from Shanghai, China, to Brazil. The Secretary of State for Health of Minas Gerais is now investigating the case.
+The woman has already been subjected to tests, which will confirm or rule out that possibility. The woman has respiratory symptoms consistent with that acute viral respiratory disease.

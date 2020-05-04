@@ -1,0 +1,201 @@
+
+For the chair of the University of Michigan School of Public Health's biostatistics department and professor of biostatistics, epidemiology as well as global public health, the situation around her in the US looked pretty grim.
+And getting grimmer.
+Her parents were far away in Kolkata.
+There was a travel ban in place.
+"I have been in this country since 1996. I came as a graduate student to do my PhD.
+It has been about 24 years. I've never felt this helpless -- that even if I want to, I cannot go back to India, if something happens to my parents."
+The news out of India, which was not yet facing any significant number of coronavirus cases, looked unsettling.
+India seemed unprepared, not testing enough and not entirely willing to believe that the covid-19 tsunami was headed her way.
+Dr Mukerjee knew, from looking at the stats, that each death conceals 1,000 additional maybe hidden cases.
+A few calls around made this Indian-origin epidemiologist realise that there were many like her in the "same boat" including some of her Indian graduate students.
+Everyone was worried sick about India and their folks and could not go back home.
+That inspired them to get together and work on a special epidemiological report on the potential coronavirus situation for India.
+"I'm a data scientist. I can only look at data. I cannot go to the front line and cure people. Or try to discover drugs. I can only try to unravel the patterns that are hidden in the data and help the public."
+When they started up their work, India was lagging behind other countries in Europe and America, in covid-19 cases, because India had less China connections, says Dr Mukherjee, and cases only began to trickle in after Thailand, Singapore and other Asian countries got infected.
+But that did not mean, as per her and her team's calculations, India would escape without serious casualties.
+"It is amazing that when a team of people work, you can accomplish something really remarkable... One of my colleagues actually had built this (epidemiological covid-19 assessing) model for Hubei (China).
+"And he was continuously telling me that, you know, for China, I cannot do anything, because I cannot change policy because it was already been done. But for India use this model. It's really, actually very important right now."
+So she collaborated with her colleague Professor Peter X K Song, and his student Lili Wang, using their modelling, package and software, and a team from the department of biostatistics, as well as biostatistics specialists, from other universities, to construct this report.
+"It all came together. In four days. I barely slept. My team barely slept. We really wanted to get the data out there. This gave (us) purpose. It was a very positive thing for us to do."
+
+One the main conclusions of Dr Mukherjee's team's report was that India needed a man-made disruption of some sort to stop the burgeoning tide of covid-19 cases flowing across India.
+That fortuitously happened on March 24 when Prime Minister Narendra Damodardas Modi announced a three-week nation-wide lockdown.
+The government could look at extending that date or modifying the nature of the clampdown after they, like Dr Mukherjee, figure out what is the "optimal period of lockdown."
+
+Please click on the graphics and table for a full-screen resolution.
+
+We thought there would be a huge impact (with) an intervention.
+Our calculations are really supported by what happened in two other countries -- that it was, actually, in two weeks, three weeks, were able to contain it.
+Now, whether this is going to go away.
+That's another question.
+Right.
+That's the pivotal question.
+Is this just a matter of three weeks?
+We have to be really cautious and really devise how the absolute lockdown will naturally open.
+You (India) may not need such draconian measures (beyond three weeks).
+I do think that you need long term support, economic support, and surveillance to contact chasing and large-scale testing, building healthcare capacity.
+The lockdown is giving you time, and there's an exceptional value in time because if you can give the right treatment and treat people, then the mortality is not that high.
+But if people do not get the right treatment then there are too many patients and too few beds and too few ventilators, then then the death rate is going to be very high.
+The death rate in South Korea, because they could detect early and could contain the disease is about 0.1 per cent.
+In China it has been three to four per cent, which is a huge difference.
+I do feel that slowing down the process is extremely critical.
+And that's why every epidemiologist, everyone has been talking about flattening the curve.
+India needs more, because it has one-fourth the number of hospital beds, maybe one-tenth the number of ICU beds and ventilators compared to the other countries that we are talking about.
+
+
+Yeah, so it's 2.8 for 1,000.
+So that's the World Bank number.
+The UK is also 2.9.
+I was surprised with the numbers, honestly, but that's the World Bank data source.
+I don't have any other sources of data where I can verify across the different countries.
+You know, I'll be honest with you, that when I first started looking at this data, I am not an infectious disease epidemiologist.
+I started looking at the data.
+And it is striking to me how similar the US numbers are to the numbers in Italy, at a lag of 11 days.
+They are just almost like within one week of each other.
+I found that very fascinating: Why is the USA 11 days behind Italy?
+Then I plotted the Indian numbers, and they were exactly almost 11 to 13 days behind US numbers, right.
+There is the pattern that was just fascinating to me as a mathematician, and when we looked at all the growth curves, the initial period is very slow, and that's exactly why it's deceptive.
+There are lots of asymptotic cases and you are thinking that the cases are ten when there are hundreds of cases which are asymptotic, right?
+That's why it creeped in very slowly and then exploded suddenly, that's what we call like the exponential growth.
+So every curve is like an S shaped curve where it's very low, and then there's a boom, and then it plateaus.
+This looks so predictable.
+That's why I started modelling (a simple, mathematically-formalized way to estimate reality) it.
+Because there is a lot that could be told, because the progress of contagion is somewhat mathematically defined.
+
+
+What I suspect -- and I didn't know because I really started looking at the data in India in depth -- and others probably I just looked at the patterns...
+Well, what are the intrinsic causes I do not know.
+But what I read, I am about to tell you: In the initial period in Italy, the first few carriers were really super carriers.
+They were asymptomatic and they were very active people and they went and infected many, many people.
+If your initial carrier is like a very quiet person, does not interact, doesn't go to the gym, does not go to the restaurant, that could have a completely different impact.
+That's very critical, because the first few people can infect hundreds of people...
+That's what can change this -- the initial group (infected).
+Also what I heard: My brother actually lives in Italy and he had done some wonderful pieces, that he wrote for a Bengali newspaper, that they were not following social quarantine,
+They interpreted it in a very cavalier, European, way, and they were still going to bars.
+Until there was a central lockdown.
+They were showing their spirit which is what you want to do at this time.
+Exactly.
+The attitude: That this is not a big deal for my country.
+And then from there to central lockdown!
+It has taken maybe a few days in many countries, so should we (India) make that mistake?
+So that's exactly why this (lockdown).
+You have country after country showing that is what works.
+There is no reason to not call for this.
+
+So you should look at Table II (below), where we actually tabulate how many million people are in the comorbid categories, that are have been already identified to be more vulnerable to the coronavirus.
+Among them diabetes and hypertension really stands out and cancer too, because usually cancer patients, after going through chemotherapy, they have immunity compromised.
+Those numbers are worrisome.
+I calculated like 122 million people with diabetes.
+Just the sheer population, if you think that 20 per cent of the affected cases will have to be hospitalised and about 10 per cent will actually need a ventilator.
+Because of the population of India if this really spreads and is not going to be localized, then it's going to be a disaster.
+Those are point estimates.
+So in any statistical estimation there is no one answer.
+There is a wide interval.
+So in our first graph (Figure 1), you see the bars, which are the projections, and 59,000 is an estimate but the upper line is really 900,000 right?
+Similarly, that 15,000 is sort of the best medium estimate, but there is uncertainty around it.
+The main takeaway message is very clear.
+That from millions and hundreds of thousands, you can come down to less than, like 50,000.
+We are talking about a drastic drop in terms of the projected number of cases.
+There is a small possibility, but as I told you, that India is not doing large-scale testing.
+As far as deaths goes if there are nine deaths, then there are probably 9,000 or 7,000 to 10,000 cases in the community, according to the calculations.
+You are not getting them (to these cases).
+You are not chasing them.
+(If you do then) I think this is still containable.
+But if we don't do testing, there will probably be asymptotic cases of quarantined people.
+You will never get that exact count.
+So this is based on how many people you test and the confirmed cases with the low level of testing in India.
+We may never know the number of true cases because we are not doing large-scale testing.
+
+IMAGE: Table 2
+
+800 to 900 is the estimate, according to the other studies, behind each death.
+Testing capacities need to expand.
+I think this time, with the lockdown, should be devoted to expanding testing and treatment capacity, because you are sort of pushing behind the tidal wave.
+But there will be a strong wave coming and you need to build your dam.
+There are different components of the dam and building testing and treatment capacity (are two of the components).
+Okay, community transmission has not happened.
+I believe the government data.
+(But) what I would really like to recommend is to treat respiratory illness cases all across the country.
+Test some of those people.
+The serious people are going to have serious respiratory illness and are going to be admitted to the hospital.
+You can randomly test these people for covid-19 and see if anybody turns out to be positive.
+So some kind of network of monitoring and surveillance.
+You can do this in an intelligent way.
+In villages test the people who have returned (from the cities).
+In India, only 20 per cent people probably have private (health) insurance.
+If you actually looked at insurance claims that also may show some spike, which could be predictors of something coming.
+I do think that the respiratory illness is a symptom, and you should randomly test those people.
+You have to be intelligent if you don't have enough number of tests.
+You don't have to test anybody, but you still have to be thoughtful in terms of what is going to be the surveillance strategy, in the meantime, as the central lockdown is going on.
+
+
+This is an interesting question.
+What South Korea did is sort of maybe interesting here.
+What they did was really cluster testing.
+That if one person was found to be showing symptoms, then they tested the whole community, maybe the whole apartment building or the entire (community) of the church (where the person went to).
+Some kind of surveillance with cluster testing will have to be in place.
+But we also have to be prepared that some people are going to fall sick.
+Fortunately, 80 per cent of the people do not need hospitalisation.
+Twenty per cent of these people are going to need hospitalisation.
+We have to make sure they are treated so that their chance of survival is strong.
+For that, two things we have to do -- we have to repurpose some of the existing facilities in terms of quarantine wards or hospitals.
+And then we have to protect our healthcare workers, so that they do not die.
+They are the most vulnerable, as well.
+You have seen so many unfortunate deaths in frontline health care workers in US and other countries.
+You have to make sure that they have the protective gear, like gloves, gowns, masks.
+We really have to put all our resources into thinking about surveillance and testing strategy.
+This is my personal opinion.
+As well as preparing to be caring for a number of people, who are going to fall sick inevitably, in the next few weeks.
+Yeah, I do not know.
+I saw some numbers.
+I'm not sure I believe them.
+Even in the United States, I'll be honest with you, that we got an e-mail from our health system to donate protective gear, if we have them saved in the house.
+So even a country like United States is massively running out of these supplies.
+But I think that India is (looking) at creative ways -- I heard.
+This is a war.
+It requires partnership between private organisation and the government and requires partnership between the government and the public.
+I really liked Prime Minister Modi's speech because he was appealing to the heart of the public (about) how critical this is.
+And if there is any chance of adherence and listening to him, then you need a public-government-industry partnership with scientists and experts, partnership with these different branches.
+But what I also think that India will have its own creative ways of emerging out the crisis, for example, in West Bengal I heard that many of the stadiums are being converted into temporary quarantine wards.
+I heard that many people (among) students are making masks.
+We have very big society.
+Our solution is not going to be the solution of the West.
+But if we know what we want to achieve, then we can achieve the solution in a different way.
+We have tremendous capacity.
+We may want to take over some plants, clothing plants or fabric plants and just make masks.
+Such choices I think India can do.
+People can help.
+We have to be really, really mindful of what is coming and have a long-term strategy.
+
+
+What China did, we cannot do.
+China had a lot of control on their public.
+They mandated, I think, that one person can go out three times a week or something like that.
+So they really chartered and rationed that.
+Yeah, that's hard to say.
+Also a function of whether they are going to expand the testing criteria right.
+There could still be some cases where there are mild symptoms and whether they are going to become confirmed cases, or not, depends on who you are testing.
+Hard to answer.
+But according to our calculations, there will be a drastic drop with the lockdown.
+With only social distancing and travel ban, there was going to be 48 cases per 100,000.
+That means somewhere around 55,000 cases.
+But with the lockdown that number came down to somewhere like you know, 15,000 to 20,000.
+In context of India, in Table Four (please see), we project, that under surveillance that if there was 161 (cases), how it came down to 48, and then to four and then to one (with a combination of all three).
+I believe that these (methods) will be effective.
+I cannot and I don't dare to project the number.
+The qualitative takeaway message is that this will reduce the numbers.
+The exact numbers we do not know.
+But without it, it is going to be much, much, much, much worse.
+In the meantime, we really need to work on a sort of war footing, given that it is a natural disaster, provide relief, provide essentials, till we get biological herd immunity, we need to get economic immunity, and also social immunity.
+Because these times are very hard for people in confined spaces and not being able to have their daily wages.
+The government has to be really creative on how to make people adhere and not go astray with this ban, which is not an easy task.
+It's quite a daunting task.
+This is the hard situation right?
+You're trying to optimise the control of the virus.
+Then there are other economic holes and detriments and social detriments that you are facing.
+But I don't see a choice.
+I think what has been done is the right thing from a public point of view.
+
+
+

@@ -1,0 +1,27 @@
+HONG KONG — The new coronavirus has a HIV-like mutation that means its ability to bind with human cells could be up to 1,000 times as strong as the Sars virus, according to new research by scientists in China and Europe. 
+ The discovery could help to explain not only how the infection has spread but also where it came from and how best to fight it. 
+ Scientists showed that Sars (severe acute respiratory syndrome) entered the human body by binding with a receptor protein called ACE2 on a cell membrane. And some early studies suggested that the new coronavirus, which shares about 80 per cent of the genetic structure of Sars, might follow a similar path. 
+ But the ACE2 protein does not exist in large quantities in healthy people, and this partly helped to limit the scale of the Sars outbreak of 2002-03, in which infected about 8,000 people around the world. 
+ Other highly contagious viruses, including HIV and Ebola, target an enzyme called furin, which works as a protein activator in the human body. Many proteins are inactive or dormant when they are produced and have to be "cut" at specific points to activate their various functions. 
+ When looking at the genome sequence of the new coronavirus, Professor Ruan Jishou and his team at Nankai University in Tianjin found a section of mutated genes that did not exist in Sars, but were similar to those found in HIV and Ebola. 
+ "This finding suggests that 2019-nCoV [the new coronavirus] may be significantly different from the Sars coronavirus in the infection pathway," the scientists said in a paper published this month on Chinaxiv.org, a platform used by the Chinese Academy of Sciences to release scientific research papers before they have been peer-reviewed. 
+ "This virus may use the packing mechanisms of other viruses such as HIV." 
+ According to the study, the mutation can generate a structure known as a cleavage site in the new coronavirus' spike protein. 
+ The virus uses the outreaching spike protein to hook on to the host cell, but normally this protein is inactive. The cleavage site structure's job is to trick the human furin protein, so it will cut and activate the spike protein and cause a "direct fusion" of the viral and cellular membranes. 
+ Compared to the Sars' way of entry, this binding method is "100 to 1,000 times" as efficient, according to the study. 
+ Just two weeks after its release, the paper is already the most viewed ever on Chinarxiv. 
+ In a follow-up study, a research team led by Professor Li Hua from Huazhong University of Science and Technology in Wuhan, Hubei province, confirmed Professor Ruan's findings. 
+ The mutation could not be found in Sars, Mers or Bat-CoVRaTG13, a bat coronavirus that was considered the original source of the new coronavirus with 96 per cent similarity in genes, it said. 
+ This could be "the reason why SARS-CoV-2 is more infectious than other coronaviruses", Professor Li wrote in a paper released on Chinarxiv on Sunday. 
+ Meanwhile, a study by French scientist Etienne Decroly at Aix-Marseille University, which was published in the scientific journal Antiviral Research on February 10, also found a "furin-like cleavage site" that is absent in similar coronaviruses. 
+ A researcher with the Beijing Institute of Microbiology, Chinese Academy of Sciences in Beijing, said the studies were all based on genetic sequencing. 
+ "Whether [the virus] behaves as predicted will need other evidence including experiments," said the researcher who asked not to be named. 
+ "The answer will tell how the virus makes us ill," he said. 
+ Scientists' understanding of the new coronavirus has changed dramatically over the past few months. 
+ At first the virus was not considered a major threat, with the Chinese Centres for Disease Control and Prevention saying there was no evidence off human-to-human transmission. 
+ But that assumption was soon invalidated, and as of Wednesday, there had been more than 81,000 confirmed infections around the world. 
+ Chinese researchers said drugs targeting the furin enzyme could have the potential to hinder the virus' replication in the human body. These include "a series of HIV-1 therapeutic drugs such as Indinavir, Tenofovir Alafenamide, Tenofovir Disoproxil and Dolutegravir and hepatitis C therapeutic drugs including Boceprevir and Telaprevir", according to Professor Li's study. 
+ This suggestion is in line with reports by some Chinese doctors who self-administered HIV drugs after testing positive for the new coronavirus, but there is as yet no clinical evidence to support the theory. 
+ There is also hope that the link to the furin enzyme could shed light on the virus' evolutionary history before it made the jump to humans. 
+ The mutation, which Professor Ruan's team described as an "unexpected insertion", could come from many possible sources such as a coronavirus found in rats or even a species of avian flu. SOUTH CHINA MORNING POST 
+ 

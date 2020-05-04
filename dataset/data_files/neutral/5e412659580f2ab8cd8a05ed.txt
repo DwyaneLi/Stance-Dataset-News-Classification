@@ -1,0 +1,30 @@
+SINGAPORE - Time is of the essence when it comes to curbing the spread of the coronavirus (2019-nCoV) that has infected more than 30,000 people worldwide in the span of a month. 
+ Identifying those who may be infected with the virus is especially critical. 
+ Yet, since those infected exhibit pneumonia-like symptoms such as fever and cough - symptoms that could have been caused by other viruses or bacteria - it may not be possible to identify all of them by sight or clinical examinations and routine laboratory tests. 
+ A diagnostic test that can quickly and accurately detect the presence of the virus in a patient is crucial, so that he or she can be quarantined and treated before the disease spreads. 
+ Yet, because so the virus is so new, there has not been a widely implemented test for its detection. 
+ Nations and companies, including those in Singapore, are now working to develop such a diagnostic test kit. 
+ One of them is home-grown biotech company Acumen Research Laboratories. 
+ Its director and chief scientist, Dr Ong Siew Hwa, said current testing procedures require initial screening and verification steps, in a process that could take up to a day for every one patient sample. 
+ "The latest policy protocol is that all patients exhibiting pneumonia-like symptoms will be tested for the novel coronavirus. This could cause a bottleneck in diagnosis of the patients using the current method," said Dr Ong. 
+ The prototype of a diagnostic test developed by her company has two advantages over the current method, she said. 
+ First, it can analyse at least 24 patient samples at a time. Two, it reduces the time required for sample analysis from about a day to just about two hours
+. 
+ Said Dr Ong: "If this prototype is scaled up and produced on a mass scale, it will allow doctors to quickly sieve through all suspected cases, as well as those exhibiting symptoms of pneumonia, from patients who have the virus." 
+ In the conventional testing method, samples such as of lung fluids are first taken from the patient and sent to the clinical testing lab. 
+ Next, lab technologists process the sample using a method known in molecular biology as the polymerase chain reaction (PCR) to determine if the sample contains any detectable genetic material of the coronavirus. This could take up to four hours. 
+ If the results test positive for the coronavirus, the sample will be sent for genome sequencing, to confirm the findings. The initial screening and confirmation by genome sequencing can take up to 24 hours, said Dr Ong. 
+ But the prototype can shorten this process to just about two hours, she said. 
+ Key to its development was the availability of the genome of the virus, which is unique to it, and can serve as a "fingerprint" that helps scientists distinguish it from other viruses. 
+ The genome of the 2019-nCoV was made publicly available last month by scientists in China, where the first patients were identified. This allowed scientists to determine that the new virus was closely related to the virus that caused the severe acute respiratory syndrome (Sars) in 2003. 
+ Dr Ong told The Straits Times: "But even though the genome of 2019-nCoV is about 80 per cent similar to the Sars virus, there were many parts in the genome where they differed." 
+ These differences could function as "red flags" for doctors, if a diagnostic test could highlight them. 
+ In essence, that is what such diagnostic test kits, including the one from Acumen Research Laboratories, can do. Such test kits often differ in the part of the genome they highlight as "red flags"
+. 
+ Similar to conventional methods, doctors collect samples from a patient's lungs or cough mucus (such samples are known as sputum), and process the sample via PCR. 
+ Through the use of the kit and by programming the PCR machine to recognise these "red flags", subsequent analyses would be able to determine if they could be detected. 
+ This reduces the need for additional genetic sequencing, although this could be done if additional verification was required, said Dr Ong. She added that the next step was to try out the test using actual samples of the pathogen collected from patients. 
+ Separately, Dr Ong's firm last September received a $600,000 grant from the Chinese government to develop a kit that would allow doctors to identify patients who have infections, such as pneumonia, and are at a greater risk of developing sepsis. 
+ Sepsis refers to a life-threatening condition caused by the body's response to an infection. 
+ The body normally releases antibodies and chemicals into the bloodstream to fight an infection, but sepsis occurs when the infection-fighting chemicals turn against the host, damaging multiple organ systems. 
+ These sepsis kits are now ready, and can be deployed to China when hospitals there call for it, said Dr Ong. She added that the kits will be sent to hospitals there at cost, as part of the firm's national service to fight the outbreak of the disease.
